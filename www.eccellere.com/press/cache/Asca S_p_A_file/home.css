@@ -1,0 +1,66 @@
+.box {
+	PADDING-RIGHT: 4px; PADDING-LEFT: 4px; PADDING-BOTTOM: 4px; PADDING-TOP: 4px
+}
+.testoboxscuro {
+	FONT-SIZE: 11px; COLOR: #ffffff; FONT-FAMILY: Arial, Helvetica, sans-serif
+}
+.testoboxchiaro {
+	FONT-SIZE: 11px; COLOR: #333333; FONT-FAMILY: Arial, Helvetica, sans-serif
+}
+.titoloboxchiaro {
+	FONT-WEIGHT: bold; FONT-SIZE: 11px; COLOR: #333333; FONT-FAMILY: Arial, Helvetica, sans-serif
+}
+.titoloboxscuro {
+	FONT-WEIGHT: bold; FONT-SIZE: 11px; COLOR: #ffffff; FONT-FAMILY: Arial, Helvetica, sans-serif
+}
+.direttore {
+	FONT-SIZE: 9px; COLOR: #003399; FONT-FAMILY: Arial, Helvetica, sans-serif
+}
+BODY {
+	MARGIN-TOP: 0px; MARGIN-LEFT: 0px; MARGIN-RIGHT: 0px; BACKGROUND-COLOR: #27458e
+}
+.spaziosu {
+	MARGIN-TOP: 5px
+}
+A {
+	COLOR: #ffffff; TEXT-DECORATION: none
+}
+A:hover {
+	COLOR: #5375d0
+}
+.barreblu {
+	BACKGROUND-POSITION: left top; PADDING-LEFT: 5px; FONT-WEIGHT: bold; FONT-SIZE: 11px; BACKGROUND-ATTACHMENT: fixed; BACKGROUND-IMAGE: url(../img/barreblu.html); COLOR: #ffffff; LINE-HEIGHT: 14px; BACKGROUND-REPEAT: no-repeat; FONT-FAMILY: Arial, Helvetica, sans-serif
+}
+.barreblusx {
+	BACKGROUND-POSITION: left top; BACKGROUND-ATTACHMENT: fixed; BACKGROUND-IMAGE: url(../img/barreblusx.html); LINE-HEIGHT: 14px; BACKGROUND-REPEAT: no-repeat
+}
+.menublu {
+	BACKGROUND-POSITION: left top; PADDING-LEFT: 5px; FONT-WEIGHT: bold; FONT-SIZE: 11px; BACKGROUND-ATTACHMENT: fixed; BACKGROUND-IMAGE: url(../img/barreblu.html); COLOR: #ffffff; LINE-HEIGHT: 14px; BACKGROUND-REPEAT: no-repeat; FONT-FAMILY: Arial, Helvetica, sans-serif
+}
+.testoarticolo {
+	FONT-SIZE: 12px; COLOR: #333333; LINE-HEIGHT: 20px; FONT-FAMILY: Arial, Helvetica, sans-serif
+}
+.titoloarticolo {
+	FONT-WEIGHT: bold; FONT-SIZE: 12px; COLOR: #333333; FONT-FAMILY: Arial, Helvetica, sans-serif
+}
+.boxarticolo {
+	PADDING-RIGHT: 10px; PADDING-LEFT: 20px; PADDING-BOTTOM: 0px; PADDING-TOP: 20px
+}
+.bann {
+	BORDER-RIGHT: #666666 1px solid; BORDER-TOP: #666666 1px solid; MARGIN-TOP: 5px; BORDER-LEFT: #666666 1px solid; BORDER-BOTTOM: #666666 1px solid
+}
+.scrollbox {
+	BORDER-RIGHT: 0px; PADDING-RIGHT: 2px; BORDER-TOP: 0px; PADDING-LEFT: 2px; FONT-SIZE: 9px; PADDING-BOTTOM: 0px; MARGIN: 0px; BORDER-LEFT: 0px; WIDTH: 780px; COLOR: #ffffff; PADDING-TOP: 0px; BORDER-BOTTOM: 0px; FONT-FAMILY: Arial, Helvetica, sans-serif; HEIGHT: 11px; BACKGROUND-COLOR: #333399
+}
+.nospazio {
+	RIGHT: 0px; LEFT: 0px
+}
+.nwmail2 {
+	BACKGROUND-IMAGE: url(../img/newsmail2.html)
+}
+.boxCop {
+	PADDING-RIGHT: 4px; PADDING-LEFT: 4px; PADDING-BOTTOM: 4px; PADDING-TOP: 23px
+}
+.testolista {
+	COLOR: #000000; FONT-FAMILY: Arial, Helvetica, sans-serif
+}
